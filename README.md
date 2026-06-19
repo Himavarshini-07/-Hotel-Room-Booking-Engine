@@ -1,5 +1,6 @@
 ![image-alt](https://github.com/Himavarshini-07/-Hotel-Room-Booking-Engine/blob/main/Screenshot%202026-06-19%20100727.png?raw=true)
 ![image_alt](https://github.com/Himavarshini-07/-Hotel-Room-Booking-Engine/blob/main/Screenshot%202026-06-19%20101133.png?raw=true)
+![image-alt](https://github.com/Himavarshini-07/-Hotel-Room-Booking-Engine/blob/main/ChatGPT%20Image%20Jun%2018,%202026,%2010_54_05%20PM.png?raw=true)
 
 # React + Vite
 
